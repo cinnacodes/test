@@ -1,0 +1,20 @@
+{
+    "d": [
+        {
+            "Query": "matia data integration",
+            "Impressions": 240,
+            "Clicks": 18,
+            "AvgClickPosition": 3.2,
+            "AvgImpressionPosition": 5.7,
+            "Date": "/Date(1720854000000)/"
+        },
+        {
+            "Query": "bing webmaster tools api",
+            "Impressions": 90,
+            "Clicks": 4,
+            "AvgClickPosition": 6.1,
+            "AvgImpressionPosition": 8.4,
+            "Date": "/Date(1721458800000)/"
+        }
+    ]
+}
