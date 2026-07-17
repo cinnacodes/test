@@ -1,0 +1,14 @@
+{
+    "d": [
+        {
+            "Page": "https://example.com/pricing",
+            "Impressions": 500,
+            "Clicks": 40
+        },
+        {
+            "Page": "https://example.com/blog/data-integration",
+            "Impressions": 220,
+            "Clicks": 15
+        }
+    ]
+}
