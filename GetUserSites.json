@@ -1,0 +1,11 @@
+{
+    "d": [
+        {
+            "__type": "Site:#Microsoft.Bing.Webmaster.Api",
+            "AuthenticationCode": "25FA0A9A715E206C7AC15D518412C137",
+            "DnsVerificationCode": "9275229409d5cd69e09a079cbf87a09d.example.com",
+            "IsVerified": true,
+            "Url": "https://example.com/"
+        }
+    ]
+}
